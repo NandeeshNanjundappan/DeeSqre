@@ -448,6 +448,7 @@ form {
     width: 280px;
     height: 280px;
     margin-bottom: 100px;
+    margin-top: -100px;
   }
 
   .hero-content {
@@ -457,7 +458,7 @@ form {
   }
 
   .hero-content h1 {
-    font-size: 30px;
+    font-size: 35px;
     height: auto;
     margin: 20px 0;
     margin-left: 0;
