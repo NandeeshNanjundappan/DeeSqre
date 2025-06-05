@@ -1,4 +1,4 @@
-/*// ========= Disabled Actions Ctrl+U, Ctrl+Shift+I, F12 ============
+// ========= Disabled Actions Ctrl+U, Ctrl+Shift+I, F12 ============
 
   document.addEventListener("contextmenu", e => e.preventDefault());
   document.addEventListener("keydown", function (e) {
@@ -11,7 +11,6 @@
     }
   });
 // ========== 1. Hire Us Button ==========
-*/
 
 document.getElementById("hire-us-btn").addEventListener("click", function (e) {
   e.preventDefault();
